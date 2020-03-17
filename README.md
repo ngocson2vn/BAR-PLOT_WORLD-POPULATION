@@ -5,4 +5,4 @@ Dữ liệu được lấy từ và xử lý bằng thư viện Pandas, các bi�
 Nguồn dữ liệu: [https://data.worldbank.org](https://data.worldbank.org)
   
   
-[![Chỉ số năng lực cạnh tranh cấp tỉnh - PCI](BAR-PLOT_WORLD-POPULATION.png)](https://youtu.be/cb75RqmRlic "TOP 20 quốc gia dân số lớn nhất")
+[![Chỉ số năng lực cạnh tranh cấp tỉnh - PCI](BAR-PLOT_WORLD-POPULATION.jpg)](https://youtu.be/cb75RqmRlic "TOP 20 quốc gia dân số lớn nhất")
